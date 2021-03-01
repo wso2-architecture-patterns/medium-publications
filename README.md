@@ -14,7 +14,6 @@ WSO2 specific medium publications
 ## WSO2 Platform/Architecture
 - [WSO2 Solution Architecture Team Blog](https://medium.com/sa-team-blog)
 - [WSO2 Best Practices](https://medium.com/wso2-learning)
-- [WSO2 Architecture Patterns](https://medium.com/wso2-architecture-patterns)
 - [Smile with WSO2](https://medium.com/smile-with-wso2)
 - [Working with WSO2 products](https://medium.com/working-with-wso2-products)
 
