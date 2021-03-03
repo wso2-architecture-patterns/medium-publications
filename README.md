@@ -10,6 +10,7 @@ WSO2 specific medium publications and blogs
 ## WSO2 Identity and Access Management
 - [Identity beyond borders](https://medium.com/identity-beyond-borders)
 - [Facile Login by Prabath](https://medium.facilelogin.com/)
+- [WSO2 IAM Bloggers](https://github.com/prabath/wso2-iam-blogs)
 
 ## WSO2 Platform/Architecture
 - [WSO2 Solution Architecture Team Blog](https://medium.com/sa-team-blog)
