@@ -17,6 +17,5 @@ WSO2 specific medium publications and blogs
 - [Smile with WSO2](https://medium.com/smile-with-wso2)
 - [Working with WSO2 products](https://medium.com/working-with-wso2-products)
 - [WSO2 research Blog](https://wso2.com/blog/research/)
-- 
 
 
